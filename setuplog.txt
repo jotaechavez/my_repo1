@@ -1,0 +1,5 @@
+C:\SETUP.EXE 
+
+Bizagi Studio v11.2.31039 10-18-2019 16:17:52 Uninstalling Connector Server...
+Bizagi Studio v11.2.31039 10-18-2019 16:17:52 Executing C:\Program Files\Bizagi\Bizagi Studio\ConnectorsService\uninstall.bat
+Bizagi Studio v11.2.31039 10-18-2019 16:17:58 uninstall.bat result: \0
